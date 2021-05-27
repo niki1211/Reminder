@@ -1,0 +1,22 @@
+{
+  "reminders": [
+    {
+      "id": 1,
+      "text": "IELTS exam",
+      "day": "June 1st at 2:00pm",
+      "remind": true
+    },
+    {
+      "id": 3,
+      "text": "Interview",
+      "day": "June 14th at 1:00am",
+      "remind": true
+    },
+    {
+      "text": "cnjscn",
+      "day": "ncfnc",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
